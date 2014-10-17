@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kvi:home|Door43 (kvi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kvi|d43-kvi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kvi/archive/master.zip|d43-kvi.zip]]
+
+**Recent Changes**
+{{changes>ns = kvi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kvi|Ethnologue data]]
+
